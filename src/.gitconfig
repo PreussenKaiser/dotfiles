@@ -1,0 +1,5 @@
+[init]
+    defaultBranch = main
+[alias]
+    c = !git add . && git commit
+    ac = !git add . && git commit --amend --no-edit
